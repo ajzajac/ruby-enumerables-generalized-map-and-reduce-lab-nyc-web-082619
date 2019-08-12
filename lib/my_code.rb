@@ -24,3 +24,4 @@ def reduce(array, starting_value=0)
   end
   return reduced
 end
+
