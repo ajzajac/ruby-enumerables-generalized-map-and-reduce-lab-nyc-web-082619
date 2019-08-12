@@ -27,3 +27,4 @@ def reduce(array, starting_point=0)
     end
     return starting_point
   end
+end
