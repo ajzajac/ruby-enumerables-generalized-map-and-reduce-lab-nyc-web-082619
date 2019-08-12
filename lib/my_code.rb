@@ -9,3 +9,4 @@ def map(array)
   end
   newarray
 end
+
