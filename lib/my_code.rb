@@ -10,9 +10,9 @@ def map(array)
   newarray
 end
 
-def reduce(array, value = nil)
-  if value
-    reduced = value
+def reduce(array, starting_value=0)
+  if starting_value
+    reduced = starting_value
     i = 0
   else
     reduced = array[0]
